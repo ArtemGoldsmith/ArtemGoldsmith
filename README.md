@@ -47,7 +47,8 @@
 
 ![Artem's github stats](https://github-readme-stats.vercel.app/api?username=ArtemGoldsmith&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemGoldsmith&layout=compact)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://artemsaribekyan.com
 [twitter]: https://twitter.com/saribekyan13
