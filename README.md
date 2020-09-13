@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/~01cd7c2318564554de)](https://www.upwork.com/freelancers/~01cd7c2318564554de)
 
-## I'm a Software Developer
+## I'm a Software Engineer
 
 - 🧠 I’m currently learning just everything
 - 🥅 Main Goals for 2020: Contribute more to Open Source projects, Move to USA 🇺🇸
@@ -44,7 +44,8 @@
 
 ---
 
-![Artem's github stats](https://github-readme-stats.vercel.app/api?username=artemgoldsmith&count_private=true)
+![Artem's github stats](https://github-readme-stats.vercel.app/api?username=ArtemGoldsmith&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemGoldsmith&layout=compact)
 
 
 [website]: https://artemsaribekyan.com
