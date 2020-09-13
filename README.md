@@ -8,7 +8,8 @@
 - 🥅 Main Goals for 2020: Contribute more to Open Source projects, Move to USA 🇺🇸
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Artem Saribekyan Spotify Playing" width="350" />](https://open.spotify.com/user/215leoq7uap7xqkfeo47aegbi)
+[<img src="https://novatorem.artemgoldsmith.vercel.app/api/spotify" alt="Artem Saribekyan Spotify Playing" width="350" />](https://open.spotify.com/user/215leoq7uap7xqkfeo47aegbi)
+
 
 ### Connect with me:
 
