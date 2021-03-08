@@ -5,11 +5,7 @@
 ## I'm a Software Engineer
 
 - 🧠 I’m currently learning just everything
-- 🥅 Main Goals for 2020: Contribute more to Open Source projects, Move to USA 🇺🇸
-
-### Spotify Playing 🎧
-[<img src="https://novatorem.artemgoldsmith.vercel.app/api/spotify" alt="Artem Saribekyan Spotify Playing" width="350" />](https://open.spotify.com/user/215leoq7uap7xqkfeo47aegbi)
-
+- 🥅 Main Goals for 2021: Contribute more to Open Source projects, Move to USA 🇺🇸
 
 ### Connect with me:
 
