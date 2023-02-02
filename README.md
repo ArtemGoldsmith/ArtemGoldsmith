@@ -60,7 +60,7 @@
 ![Chart not found](https://github.com/ArtemGoldsmith/ArtemGoldsmith/blob/master/charts/bar_graph.png) 
 
 
-<!--END_SECTION:waka--> -->
+<!--END_SECTION:waka-->
 
 [website]: https://artemsaribekyan.com
 [twitter]: https://twitter.com/ArtemSaribekian
