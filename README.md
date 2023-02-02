@@ -5,7 +5,6 @@
 ## I'm a Software Engineer
 
 - 🧠 I’m currently learning just everything
-- 🥅 Main Goals for 2021: Contribute more to Open Source projects, Move to USA 🇺🇸
 
 ### Connect with me:
 
