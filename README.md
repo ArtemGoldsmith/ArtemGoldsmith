@@ -55,14 +55,14 @@
  > 
 > 🔑 6 Private repositories 
 
-**Timeline**
+<!-- **Timeline**
 
 ![Chart not found](https://github.com/ArtemGoldsmith/ArtemGoldsmith/blob/master/charts/bar_graph.png) 
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> -->
 
 [website]: https://artemsaribekyan.com
-[twitter]: https://twitter.com/saribekyan13
-[instagram]: https://www.instagram.com/saribekyan13/
+[twitter]: https://twitter.com/ArtemSaribekian
+[instagram]: https://www.instagram.com/artem.saribekian/
 [linkedin]: https://www.linkedin.com/in/artem-saribekyan/
