@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="PhpStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/ru/c/c8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg" />
+<img align="left" alt="PhpStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
