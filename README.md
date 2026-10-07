@@ -22,7 +22,6 @@ Building for the web since 2016. Today I work mostly on B2B SaaS: multi-tenant p
 | **Compliance platform for construction insurance** | Full-stack development of a B2B platform for contractors and insurers: bidding, projects, document compliance, role-based access. Go + gRPC, React, PostgreSQL. |
 | **Meeting-intelligence SaaS** | Multi-tenant product that turns calls into briefs, insights and action items. TypeScript monorepo, LLM pipelines, integrations. |
 | **[claude-symphony](https://github.com/ArtemGoldsmith/claude-symphony)** | Open-source orchestrator that dispatches Claude Code agents on Linear tickets in isolated git worktrees. TypeScript port of OpenAI Symphony. |
-| **[jira-issue-copy](https://github.com/ArtemGoldsmith/jira-issue-copy)** | Chrome extension: copy a Jira issue key and title in one click. |
 
 ### Stack
 
