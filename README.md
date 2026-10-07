@@ -1,6 +1,6 @@
 ## Hi, I'm Artem 👋
 
-**Lead Software Engineer in Prague. I build web products end-to-end — from database schema to the last pixel — and I ship them fast with AI coding agents.**
+**Lead Software Engineer based in Prague. I build web products end-to-end — from database schema to the last pixel — and I ship them fast with AI coding agents.**
 
 Building for the web since 2016. Today I work mostly on B2B SaaS: multi-tenant platforms, internal tools, integrations and the AI features inside them.
 
