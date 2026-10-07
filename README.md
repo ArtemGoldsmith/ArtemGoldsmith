@@ -22,6 +22,8 @@ Building for the web since 2016. Today I work mostly on B2B SaaS: multi-tenant p
 | **Compliance platform for construction insurance** | Full-stack development of a B2B platform for contractors and insurers: bidding, projects, document compliance, role-based access. Go + gRPC, React, PostgreSQL. |
 | **Meeting-intelligence SaaS** | Multi-tenant product that turns calls into briefs, insights and action items. TypeScript monorepo, LLM pipelines, integrations. |
 | **[claude-symphony](https://github.com/ArtemGoldsmith/claude-symphony)** | Open-source orchestrator that dispatches Claude Code agents on Linear tickets in isolated git worktrees. TypeScript port of OpenAI Symphony. |
+| **[news-digest-bot](https://github.com/ArtemGoldsmith/news-digest-bot)** | Daily news digest bot: RSS → Gemini → Telegram, with a local-news section and a Q&A bot. GitHub Actions + Cloudflare Worker, zero dependencies. |
+| **[passport-prague-monitor](https://github.com/ArtemGoldsmith/passport-prague-monitor)** | 24/7 monitor for scarce passport e-queue slots with instant Telegram alerts. Headless Chromium + MV3 extension + Node. |
 
 ### Stack
 
