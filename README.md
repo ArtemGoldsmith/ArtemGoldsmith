@@ -4,7 +4,7 @@
 
 Building for the web since 2016. Today I work mostly on B2B SaaS: multi-tenant platforms, internal tools, integrations and the AI features inside them.
 
-[![Hire me on Upwork](https://img.shields.io/badge/Hire_me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cd7c2318564554de)
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/artemsaribekyan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-saribekian/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArtemSaribekian)
 
@@ -48,4 +48,4 @@ This is what I use most — not a limit. I pick up whatever stack your project a
 
 ---
 
-📬 **Have a project in mind?** Message me on [Upwork](https://www.upwork.com/freelancers/~01cd7c2318564554de) or [LinkedIn](https://www.linkedin.com/in/artem-saribekian/) — I usually reply within a day.
+📬 **Have a project in mind?** Message me on [Upwork](https://www.upwork.com/freelancers/artemsaribekyan) or [LinkedIn](https://www.linkedin.com/in/artem-saribekian/) — I usually reply within a day.
