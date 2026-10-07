@@ -1,66 +1,50 @@
-### Hi, my name is Artem 👋
+## Hi, I'm Artem 👋
 
-[![Website](https://img.shields.io/website?label=upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/~01cd7c2318564554de)](https://www.upwork.com/freelancers/~01cd7c2318564554de)
+**Lead Software Engineer in Prague. I build web products end-to-end — from database schema to the last pixel — and I ship them fast with AI coding agents.**
 
-## I'm a Software Engineer
+Building for the web since 2016. Today I work mostly on B2B SaaS: multi-tenant platforms, internal tools, integrations and the AI features inside them.
 
-- 🧠 I’m currently learning just everything
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cd7c2318564554de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-saribekian/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ArtemSaribekian)
 
-### Connect with me:
+### What I can build for you
 
-[<img align="left" alt="artemsaribekyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **SaaS platforms from scratch** — auth, roles and permissions, billing, multi-tenancy, admin panels
+- **Complex product UI** — dashboards, data-heavy tables, document and file workflows
+- **AI features that actually ship** — LLM pipelines, meeting and document analysis, agent automation
+- **Rescue and scale-up** — taking over an existing codebase, test coverage, performance, CI/CD
 
-<br />
+### Recent work
 
-### Languages and Tools:
+| Project | What I did |
+|---|---|
+| **Compliance platform for construction insurance** | Full-stack development of a B2B platform for contractors and insurers: bidding, projects, document compliance, role-based access. Go + gRPC, React, PostgreSQL. |
+| **Meeting-intelligence SaaS** | Multi-tenant product that turns calls into briefs, insights and action items. TypeScript monorepo, LLM pipelines, integrations. |
+| **[claude-symphony](https://github.com/ArtemGoldsmith/claude-symphony)** | Open-source orchestrator that dispatches Claude Code agents on Linear tickets in isolated git worktrees. TypeScript port of OpenAI Symphony. |
+| **[jira-issue-copy](https://github.com/ArtemGoldsmith/jira-issue-copy)** | Chrome extension: copy a Jira issue key and title in one click. |
 
-<img align="left" alt="PhpStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="iTerm2" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/ITerm2_v3_icon.png" />
-<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+### Stack
 
-<br />
-<br />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=claude&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495e?style=flat-square&logo=vuedotjs&logoColor=4fc08d)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635bff?style=flat-square&logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+This is what I use most — not a limit. I pick up whatever stack your project already runs on.
 
 ---
 
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 626 Contributions in the year 2023
- > 
-> 📦 91.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 17 Public repositories
- > 
-> 🔑 12 Private repositories 
-
-<!-- **Timeline**
-
-![Chart not found](https://github.com/ArtemGoldsmith/ArtemGoldsmith/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
-[website]: https://artemsaribekyan.com
-[twitter]: https://twitter.com/ArtemSaribekian
-[instagram]: https://www.instagram.com/artem.saribekian/
-[linkedin]: https://www.linkedin.com/in/artem-saribekyan/
+📬 **Have a project in mind?** Message me on [Upwork](https://www.upwork.com/freelancers/~01cd7c2318564554de) or [LinkedIn](https://www.linkedin.com/in/artem-saribekian/) — I usually reply within a day.
